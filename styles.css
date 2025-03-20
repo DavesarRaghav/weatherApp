@@ -1,4 +1,4 @@
-/* General Styling */
+
 body {
     font-family: 'Poppins', sans-serif;
     text-align: center;
@@ -10,7 +10,7 @@ body {
     margin: 0;
 }
 
-/* Main Container */
+
 .container {
     width: 90%;
     max-width: 400px;
@@ -21,13 +21,13 @@ body {
     backdrop-filter: blur(10px);
 }
 
-/* Heading */
+
 h1 {
     font-size: 26px;
     color: white;
 }
 
-/* Search Box */
+
 .search-box {
     margin-bottom: 20px;
 }
@@ -44,7 +44,6 @@ input {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-/* Search Button */
 button {
     padding: 10px 15px;
     background: #ff4b2b;
@@ -61,7 +60,7 @@ button:hover {
     transform: scale(1.05);
 }
 
-/* Weather Card */
+
 .weather-card {
     padding: 15px;
     background: rgba(255, 255, 255, 0.3);
